@@ -12,4 +12,4 @@ am Projekt arbeiten
 
 ## Projektidee
 
-Wir untersuchen die Sterberate von Kindern unter 5 Jahren.
+Wir untersuchen die Veränderung der Suizidrate von 2000 bis 2021.
