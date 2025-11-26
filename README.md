@@ -12,4 +12,4 @@ am Projekt arbeiten
 
 ## Projektidee
 
-Wir untersuchen hallo
+Wir untersuchen die Sterberate von Kindern unter 5 Jahren.
