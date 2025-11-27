@@ -1,10 +1,9 @@
-# Python-LN2
-
-My student project
+# Veränderungen der Suizidrate
+Python Leistungsnachweis (BMLD Informatik 1)
 
 ## Team
 
-am Projekt arbeiten 
+Am Projekt arbeiten:
 - Meret Brandt (brandmer@students.zhaw.ch)
 - Steffi Neuhof (bierist3@students.zhaw.ch)
 - Leah Talary (talarlea@students.zahw.ch)
@@ -12,4 +11,4 @@ am Projekt arbeiten
 
 ## Projektidee
 
-Wir untersuchen die Veränderung der Suizidrate von 2000 bis 2021.
+Wir untersuchen, in welchen Ländern die Suizidrate von 2000 bis 2021 am meisten zugenommen hat, wo sie abgenommen hat und recherchieren mögliche Gründe dafür.
